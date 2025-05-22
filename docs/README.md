@@ -1,13 +1,13 @@
 ---
 home: true
 title: Home
-heroImage: images/logo.png
+heroImage: logo.png
 actions:
-  - text: Ver atualizações do Webapp
+  - text: Webapp
     link: /web/1.0.html
     type: primary
 
-  - text: Ver atualizações Aplicativo
+  - text: Aplicativo
     link: /app/1.0.html
     type: primary
 

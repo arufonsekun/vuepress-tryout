@@ -6,12 +6,13 @@ export default defineUserConfig({
   lang: 'pt-BR',
 
   title: 'Avaliapp',
-  description: 'O que há de novo no Avaliapp?',
+
+  description: 'Veja o que há de novo no Avaliapp:',
 
   base: '/vuepress-tryout/',
 
   theme: defaultTheme({
-    logo: 'images/logo.png',
+    logo: 'logo.png',
 
     navbar: [
       {
