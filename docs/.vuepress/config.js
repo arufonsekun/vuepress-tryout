@@ -8,8 +8,10 @@ export default defineUserConfig({
   title: 'Avaliapp',
   description: 'O que há de novo no Avaliapp?',
 
+  base: '/vuepress-tryout/',
+
   theme: defaultTheme({
-    logo: '../images/logo.png', // Caminho relativo para a imagem
+    logo: '../images/logo.png',
 
     navbar: [
       {
