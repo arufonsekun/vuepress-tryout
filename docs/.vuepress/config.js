@@ -11,7 +11,7 @@ export default defineUserConfig({
   base: '/vuepress-tryout/',
 
   theme: defaultTheme({
-    logo: '../images/logo.png',
+    logo: 'images/logo.png',
 
     navbar: [
       {

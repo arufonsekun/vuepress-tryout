@@ -1,7 +1,7 @@
 ---
 home: true
 title: Home
-heroImage: ./images/logo.png
+heroImage: images/logo.png
 actions:
   - text: Ver atualizações do Webapp
     link: /web/1.0.html
