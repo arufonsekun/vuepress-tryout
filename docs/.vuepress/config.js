@@ -39,7 +39,7 @@ export default defineUserConfig({
     ]
   },
 
-  head: [['link', { rel: 'stylesheet', href: '/styles/index.css' }]],
+  head: [['link', { rel: 'stylesheet', href: '/index.css' }]],
 
   bundler: viteBundler(),
 })
