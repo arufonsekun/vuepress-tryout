@@ -1,0 +1,8 @@
+:root {
+    --vp-c-accent-bg: #058805;
+    --vp-c-accent-hover: #058805b5;
+}
+
+.vp-hero {
+    height: 78vh;
+}
